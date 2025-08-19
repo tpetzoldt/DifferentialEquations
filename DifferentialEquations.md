@@ -163,8 +163,6 @@ boundaries of the independent variable.
     
 ### Model Analysis and Calibration
 
--   Package `r pkg("phaseR")` applys phase plane methods to one- and 
-    two-dimensional autonomous ODEs.
 -   In the package `r pkg("FME")` are functions for inverse
     modelling (fitting to data), sensitivity analysis, identifiability
     and Monte Carlo Analysis of DE models.
@@ -174,9 +172,6 @@ boundaries of the independent variable.
 -   Package `r pkg("magi")` implements parameter estimation of dynamic systems
     from noisy and sparse data within a Bayesian framework, without the need 
     for numerical integration.  
--   Package `r pkg("ODEsensitivity")` performs sensitivity analysis of ODE 
-    models. It utilizes theinterface from `deSolve` and connects it with the 
-    sensitivity analysis from `r pkg("sensitivity")`.
 -   Package `r pkg("deFit")` uses numerical optimization to fit ODEs to time
     series data to examine the dynamic relationships between variables.
 
@@ -225,6 +220,9 @@ boundaries of the independent variable.
 -   Package `r pkg("ecolMod")` contains the figures, data
     sets and examples from a book on ecological modelling (Soetaert and
     Herman, 2009).
+-   The `r pkg("demodelr")` package provides functionality to support 
+    the visualization and analysis of differential equations with R, 
+    including stochastic simulation.   
 
 
 ### Links
@@ -235,4 +233,5 @@ boundaries of the independent variable.
 -   Book: [Soetaert, K. and P.M.J. Herman, 2009. A Practical Guide to Ecological Modelling, using R as a simulation Platform, Springer.](http://www.springer.com/life+sciences/ecology/book/978-1-4020-8623-6)
 -   Book: [Stevens, H, 2009. A Primer of Ecology with R, Springer](http://www.springer.com/life+sci/ecology/book/978-0-387-89881-0) and the [2021 online edition](https://hankstevens.github.io/Primer-of-Ecology/) on Github.
 -   Book: [Soetaert, K., Cash, J. and Mazzia, F. 2012. Solving Differential Equations in R, Springer.](http://www.springer.com/statistics/computanional+statistics/book/978-3-642-28069-6)
--  Book: [Griffiths, G.W., 2016. Numerical Analysis Using R. Solutions to ODEs and PDEs. Cambridge University Press.](https://doi.org/10.1017/CBO9781316336069)
+-   Book: [Griffiths, G.W., 2016. Numerical Analysis Using R. Solutions to ODEs and PDEs. Cambridge University Press.](https://doi.org/10.1017/CBO9781316336069)
+-   Book: [Zobitz, J. 2023. Exploring Modeling with Data and Differential Equations Using R. Chapman and Hall/CRC.](https://jmzobitz.github.io/ModelingWithR/)
