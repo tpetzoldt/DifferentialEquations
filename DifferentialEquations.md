@@ -163,8 +163,6 @@ boundaries of the independent variable.
     
 ### Model Analysis and Calibration
 
--   Package `r pkg("phaseR")` applys phase plane methods to one- and 
-    two-dimensional autonomous ODEs.
 -   In the package `r pkg("FME")` are functions for inverse
     modelling (fitting to data), sensitivity analysis, identifiability
     and Monte Carlo Analysis of DE models.
