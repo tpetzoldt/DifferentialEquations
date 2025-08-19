@@ -3,7 +3,7 @@ name: DifferentialEquations
 topic: Differential Equations
 maintainer: Thomas Petzoldt, Karline Soetaert
 email: thomas.petzoldt@tu-dresden.de
-version: 2023-05-25
+version: 2025-08-19
 source: https://github.com/cran-task-views/DifferentialEquations/
 ---
 
