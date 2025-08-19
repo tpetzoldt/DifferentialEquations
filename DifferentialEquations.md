@@ -174,9 +174,6 @@ boundaries of the independent variable.
 -   Package `r pkg("magi")` implements parameter estimation of dynamic systems
     from noisy and sparse data within a Bayesian framework, without the need 
     for numerical integration.  
--   Package `r pkg("ODEsensitivity")` performs sensitivity analysis of ODE 
-    models. It utilizes theinterface from `deSolve` and connects it with the 
-    sensitivity analysis from `r pkg("sensitivity")`.
 -   Package `r pkg("deFit")` uses numerical optimization to fit ODEs to time
     series data to examine the dynamic relationships between variables.
 
